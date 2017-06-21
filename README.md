@@ -6,15 +6,15 @@ The Digital Literacy Competency Calculator (DLCC) is a web-based tool to represe
 **Motivation**
 -------------------------------------------
 
-The Digital Literacy Competency Calculator is part of the [*Digital Literacy for Instructional Practices Program*](http://ctl.columbia.edu/programs/seminars/digital-literacy-instructional-practices/) at the Columbia University Center for Teaching and Learning and Columbia University Libraries. Please see our [*DLCC White Paper*](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing) for background on this project.
+The Digital Literacy Competency Calculator is part of the [Digital Literacy for Instructional Practices Program](http://ctl.columbia.edu/programs/seminars/digital-literacy-instructional-practices/) at the Columbia University Center for Teaching and Learning and Columbia University Libraries. Please see our [DLCC White Paper](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing) for background on this project.
 
 Through our work with Columbia faculty, we have initially identified three types of digital literacy frameworks that align well with higher education instructional settings and goals. These frameworks are:
 
--   **Eshet’s Cognitive Skills Framework**, based on cognitive skills for digital literacy identified in [*Eshet (2012)*](http://iisit.org/Vol9/IISITv9p267-276Eshet021.pdf).
+-   **Eshet’s Cognitive Skills Framework**, based on cognitive skills for digital literacy identified in [Eshet (2012)](http://iisit.org/Vol9/IISITv9p267-276Eshet021.pdf).
 
--   **MIT’s Digital Humanities Framework**, based on competencies and learning outcomes identified in [*Schnapp et al.’s MIT Short Guide to Digital Humanities*](http://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf).
+-   **MIT’s Digital Humanities Framework**, based on competencies and learning outcomes identified in [Schnapp et al.’s MIT Short Guide to Digital Humanities](http://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf).
 
--   **ACRL’s Framework**, based on the [*Association of College and Research Libraries’ (ACRL) Information Literacy*](http://www.ala.org/acrl/standards/ilframework) standard.
+-   **ACRL’s Framework**, based on the [Association of College and Research Libraries’ (ACRL) Information Literacy](http://www.ala.org/acrl/standards/ilframework) standard.
 
 We made our selection based on several criteria, including the
 following:
@@ -38,13 +38,13 @@ Repositories for other frameworks:
 **Installation**
 ------------------------------------------------------------------
 
-1.  Choose the the framework that is most appropriate for your instructional context. Please see Choosing Your Framework in our[*Digital Literacy Instructional Design Process*](https://docs.google.com/document/d/1dChIUmHyUDAgzAV5Wt3h8QZlkrqedgSnR0bsoQz2U9w/edit?usp=sharing).
+1.  Choose the the framework that is most appropriate for your instructional context. Please see Choosing Your Framework in our[Digital Literacy Instructional Design Process](https://docs.google.com/document/d/1dChIUmHyUDAgzAV5Wt3h8QZlkrqedgSnR0bsoQz2U9w/edit?usp=sharing).
 
-    a.  [*The ACRL Framework*](https://docs.google.com/spreadsheets/d/1Im8N3deuB-bLaRadCevr2vpb-CjO_EThNtvV-mdBpwY/edit?usp=sharing)
+    a.  [The ACRL Framework*](https://docs.google.com/spreadsheets/d/1Im8N3deuB-bLaRadCevr2vpb-CjO_EThNtvV-mdBpwY/edit?usp=sharing)
 
-    b.  [*Eshet’s Cognitive Skills Framework*](https://docs.google.com/spreadsheets/d/12kCXyRT_QJ7gI0yYF4TMSK-Dlie3Yj1fc-vH0_5giCI/edit?usp=sharing)
+    b.  [Eshet’s Cognitive Skills Framework](https://docs.google.com/spreadsheets/d/12kCXyRT_QJ7gI0yYF4TMSK-Dlie3Yj1fc-vH0_5giCI/edit?usp=sharing)
 
-    c.  [*MIT’s Digital Humanities Framework*](https://docs.google.com/spreadsheets/d/1ZjeoO_hf3EbodS1-SUxg9jrViDcENWSGBrefv702TJI/edit?usp=sharing)
+    c.  [MIT’s Digital Humanities Framework](https://docs.google.com/spreadsheets/d/1ZjeoO_hf3EbodS1-SUxg9jrViDcENWSGBrefv702TJI/edit?usp=sharing)
 
 2.  Create a repository for your Digital Literacy Competency Calculator in your GitHub account (*please see below for instructions on how to do this*).
 
@@ -52,7 +52,7 @@ Repositories for other frameworks:
 
 ![Screenshot of menu for copying a Google Sheet](media/images/Make_A_Copy_Google_Sheet.png)
 
-4.  Customize the spreadsheet to match your instructional design. Please see our [*Digital Literacy Instructional Design Process*](https://docs.google.com/document/d/1dChIUmHyUDAgzAV5Wt3h8QZlkrqedgSnR0bsoQz2U9w/edit?usp=sharing).
+4.  Customize the spreadsheet to match your instructional design. Please see our [Digital Literacy Instructional Design Process](https://docs.google.com/document/d/1dChIUmHyUDAgzAV5Wt3h8QZlkrqedgSnR0bsoQz2U9w/edit?usp=sharing).
 
 5.  When you are happy with the spreadsheet, download it as a Comma-Separated Values and name the file “**standards**”.
 
@@ -79,15 +79,15 @@ Repositories for other frameworks:
 **Creating Your Own Digital Literacy Competency Calculator Repository on GitHub**
 ------------------------------------------------------------------
 
-GitHub’s documentation is available [*here*](https://help.github.com/).
+GitHub’s documentation is available [here](https://help.github.com/).
 
 1.  Navigate to the repository you want to create.
 
-    a.  ACRL’s Framework:[*https://github.com/ccnmtl/diglit-acrl-badge*](https://github.com/ccnmtl/diglit-acrl-badge)
+    a.  ACRL’s Framework:[https://github.com/ccnmtl/diglit-acrl-badge](https://github.com/ccnmtl/diglit-acrl-badge)
 
-    b.  MIT’s Digital Humanities Framework:[*https://github.com/ccnmtl/diglit-dh-badge*](https://github.com/ccnmtl/diglit-dh-badge)
+    b.  MIT’s Digital Humanities Framework:[https://github.com/ccnmtl/diglit-dh-badge](https://github.com/ccnmtl/diglit-dh-badge)
 
-    c.  Eshet’s Cognitive Skills Framework:[*https://github.com/ccnmtl/diglit-cognitive-badge*](https://github.com/ccnmtl/diglit-cognitive-badge)
+    c.  Eshet’s Cognitive Skills Framework:[https://github.com/ccnmtl/diglit-cognitive-badge](https://github.com/ccnmtl/diglit-cognitive-badge)
 
 2.  Fork the repository ([**How do I fork a repository?**](https://help.github.com/articles/fork-a-repo/))
 
@@ -112,7 +112,7 @@ GitHub’s documentation is available [*here*](https://help.github.com/).
 **Contributors**
 ----------------
 
-The Digital Literacy Competency Calculator is part of the [*Digital Literacy for Instructional Practices Program*](http://ctl.columbia.edu/programs/seminars/digital-literacy-instructional-practices/) at the Columbia University Center for Teaching and Learning and Columbia University Libraries. Contributors to this project are:
+The Digital Literacy Competency Calculator is part of the [Digital Literacy for Instructional Practices Program](http://ctl.columbia.edu/programs/seminars/digital-literacy-instructional-practices/) at the Columbia University Center for Teaching and Learning and Columbia University Libraries. Contributors to this project are:
 
 -   Lucy Appert
 -   Jessica Brodsky
@@ -120,7 +120,7 @@ The Digital Literacy Competency Calculator is part of the [*Digital Literacy for
 -   Amy Nurnberger
 -   Marc Raymond
 
-Please contact Lucy Appert([*lucy.appert@columbia.edu*](mailto:lucy.appert@columbia.edu)) for assistance.
+Please [contact us](mailto:ColumbiaCTL+DL@columbia.edu) for assistance.
 
 **License**
 -----------
