@@ -25,7 +25,7 @@ following:
 
 -   Articulation of competencies that, when paired with learning activities, can be measured for mastery
 
-As part of this release of the DLCC, we have prototyped a representation of the [**ACRL’s 2016 Information Literacy Standard**](http://www.ala.org/acrl/standards/ilframework). As the broadest and most conceptual of the frameworks our faculty have worked with, we have found the ACRL Standard most helpful for faculty who are able to integrate the information literacy thresholds and their digital skill components into their instruction of disciplinary conventions. We will be excited to see how others break these thresholds down along the Bloom’s scale and pair them with activities to create discrete competencies.
+As part of this release of the DLCC, we have prototyped a representation of the [**ACRL’s 2016 Information Literacy Standard**](http://www.ala.org/acrl/standards/ilframework). As the broadest and most conceptual of the frameworks our faculty have worked with, we have found the ACRL Standard most helpful for faculty who are able to integrate the information literacy thresholds and their digital skill components into their instruction of disciplinary conventions. We will be excited to see how others break these thresholds down along Bloom’s scale and pair them with activities to create discrete competencies.
 
 We encourage instructors to customize this representation based on their instructional plan and the actual skills being covered in their course or bootcamp.
 
